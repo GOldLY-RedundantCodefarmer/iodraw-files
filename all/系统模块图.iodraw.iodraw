@@ -102,13 +102,12 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-38" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;备&lt;/div&gt;&lt;div&gt;份&lt;/div&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;恢&lt;/div&gt;&lt;div&gt;复&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="150" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NFRUFh8iR4Qbn44cYVuO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.571;entryY=-0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.571;entryY=-0.08;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="60" as="sourcePoint" />
             <mxPoint x="262.80999999999995" y="88.39999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="314" y="60" />
-              <mxPoint x="314" y="70" />
+              <mxPoint x="414" y="70" />
               <mxPoint x="263" y="70" />
             </Array>
           </mxGeometry>
