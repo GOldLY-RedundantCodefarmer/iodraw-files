@@ -118,6 +118,12 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-27" value="提&lt;div&gt;交&lt;/div&gt;&lt;div&gt;试&lt;/div&gt;&lt;div&gt;卷&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="398" y="150" width="30" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="412" y="110" as="targetPoint" />
+            <mxPoint x="457" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-28" value="统&lt;div&gt;计&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="150" width="30" height="130" as="geometry" />
         </mxCell>
