@@ -48,11 +48,14 @@
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-20" value="参加考试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="170" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="mL-49ZFZynbZQ9aOc_sr-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mL-49ZFZynbZQ9aOc_sr-21" value="回传答卷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="195" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-23" value="下载试卷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="155" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="mL-49ZFZynbZQ9aOc_sr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.893;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mL-49ZFZynbZQ9aOc_sr-20" target="mL-49ZFZynbZQ9aOc_sr-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
