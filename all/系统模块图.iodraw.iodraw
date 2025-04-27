@@ -91,11 +91,6 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-20" value="权&lt;div&gt;限&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227" y="150" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NFRUFh8iR4Qbn44cYVuO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-21" value="文&lt;div&gt;件&lt;/div&gt;&lt;div&gt;上传/下载&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="150" width="30" height="130" as="geometry" />
         </mxCell>
@@ -159,6 +154,9 @@
               <mxPoint x="263" y="70" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.505;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-21" target="NFRUFh8iR4Qbn44cYVuO-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
