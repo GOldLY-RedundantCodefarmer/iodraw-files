@@ -14,9 +14,9 @@
           <mxGeometry x="180" y="110" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-4" value="试卷分发模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="100" width="140" height="20" as="geometry" />
+          <mxGeometry x="344" y="110" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NFRUFh8iR4Qbn44cYVuO-5" value="系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-5" value="系统服务模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="120" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-6" value="学生信息管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
