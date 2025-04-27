@@ -85,7 +85,7 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-34" value="信息更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="150" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NFRUFh8iR4Qbn44cYVuO-35" value="安&lt;div&gt;全&lt;/div&gt;&lt;div&gt;校&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-35" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="160" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
