@@ -55,11 +55,26 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-8" value="权限管理(&lt;div&gt;教师/学生/超级管理员)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="150" width="30" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-12" value="验&lt;div&gt;证&lt;/div&gt;&lt;div&gt;码&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;&lt;div&gt;证&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="150" width="30" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-15" value="账&lt;div&gt;号&lt;/div&gt;&lt;div&gt;认&lt;/div&gt;&lt;div&gt;证&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="150" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-17" value="学&lt;div&gt;生&lt;/div&gt;&lt;div&gt;注&lt;/div&gt;&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="150" width="30" height="130" as="geometry" />
