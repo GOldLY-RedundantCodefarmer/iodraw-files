@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-1" target="NFRUFh8iR4Qbn44cYVuO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-1" value="上机考试试卷分发与收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="30" width="160" height="30" as="geometry" />
         </mxCell>
@@ -93,12 +96,6 @@
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-38" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;备&lt;/div&gt;&lt;div&gt;份&lt;/div&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;恢&lt;/div&gt;&lt;div&gt;复&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="150" width="30" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="NFRUFh8iR4Qbn44cYVuO-50" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="100" relative="1" as="geometry">
-            <mxPoint x="390" y="300" as="sourcePoint" />
-            <mxPoint x="440" y="200" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
