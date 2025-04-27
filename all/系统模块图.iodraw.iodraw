@@ -8,7 +8,7 @@
           <mxGeometry x="334" y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-2" value="用户注册登录模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="110" width="140" height="20" as="geometry" />
+          <mxGeometry x="10" y="110" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-3" value="试卷管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="110" width="140" height="20" as="geometry" />
@@ -24,6 +24,18 @@
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
