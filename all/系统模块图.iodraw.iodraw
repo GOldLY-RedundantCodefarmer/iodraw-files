@@ -7,13 +7,23 @@
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mL-49ZFZynbZQ9aOc_sr-0" target="mL-49ZFZynbZQ9aOc_sr-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mL-49ZFZynbZQ9aOc_sr-33" value="教师" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL-49ZFZynbZQ9aOc_sr-13">
+          <mxGeometry x="-0.408" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mL-49ZFZynbZQ9aOc_sr-0" target="mL-49ZFZynbZQ9aOc_sr-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mL-49ZFZynbZQ9aOc_sr-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL-49ZFZynbZQ9aOc_sr-16">
+          <mxGeometry x="-0.1" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mL-49ZFZynbZQ9aOc_sr-0" target="mL-49ZFZynbZQ9aOc_sr-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL-49ZFZynbZQ9aOc_sr-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL-49ZFZynbZQ9aOc_sr-18">
+        <mxCell id="mL-49ZFZynbZQ9aOc_sr-32" value="学生" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL-49ZFZynbZQ9aOc_sr-18">
           <mxGeometry x="-0.0743" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
