@@ -18,7 +18,7 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-1" value="上机考试试卷分发与收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NFRUFh8iR4Qbn44cYVuO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-2" target="NFRUFh8iR4Qbn44cYVuO-8">
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-2" target="NFRUFh8iR4Qbn44cYVuO-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-2" value="用户注册登录模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-8" value="权限管理(&lt;div&gt;教师/学生/超级管理员)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="150" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NFRUFh8iR4Qbn44cYVuO-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-12">
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="110" as="targetPoint" />
           </mxGeometry>
