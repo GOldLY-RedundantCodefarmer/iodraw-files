@@ -11,7 +11,7 @@
           <mxGeometry x="30" y="110" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-3" value="试卷管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="110" width="110" height="20" as="geometry" />
+          <mxGeometry x="200" y="110" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-4" value="试卷分发模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="106" height="20" as="geometry" />
@@ -41,10 +41,13 @@
           <mxGeometry x="100" y="150" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-17" value="学&lt;div&gt;生&lt;/div&gt;&lt;div&gt;注&lt;/div&gt;&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="150" width="30" height="130" as="geometry" />
+          <mxGeometry x="135" y="150" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.653;entryY=0.28;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-2" target="NFRUFh8iR4Qbn44cYVuO-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
