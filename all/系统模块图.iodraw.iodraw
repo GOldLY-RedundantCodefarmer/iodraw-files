@@ -28,7 +28,10 @@
           <mxGeometry x="160" y="155" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-7" value="学生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="110" width="50" height="20" as="geometry" />
+          <mxGeometry x="560" y="120" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mL-49ZFZynbZQ9aOc_sr-8" value="学生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="250" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
