@@ -85,10 +85,8 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-19" value="试&lt;div&gt;卷&lt;/div&gt;&lt;div&gt;文&lt;/div&gt;&lt;div&gt;件&lt;/div&gt;&lt;div&gt;打&lt;/div&gt;&lt;div&gt;包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="150" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NFRUFh8iR4Qbn44cYVuO-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="110" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-20" target="NFRUFh8iR4Qbn44cYVuO-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-20" value="权&lt;div&gt;限&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227" y="150" width="30" height="130" as="geometry" />
