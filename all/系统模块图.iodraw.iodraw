@@ -99,14 +99,14 @@
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="45" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="mL-49ZFZynbZQ9aOc_sr-37" value="下载学生答卷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="227.5" width="60" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-39" value="管理考试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="200" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-42" value="添加/编辑/删除考试试卷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="187" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mL-49ZFZynbZQ9aOc_sr-43" value="下载学生回传答卷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="230" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
