@@ -17,7 +17,7 @@
           <mxGeometry x="360" y="90" width="106" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-5" value="系统服务模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="110" width="100" height="20" as="geometry" />
+          <mxGeometry x="680" y="90" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-6" value="学生信息管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="90" width="110" height="20" as="geometry" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-38" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;备&lt;/div&gt;&lt;div&gt;份&lt;/div&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;恢&lt;/div&gt;&lt;div&gt;复&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="150" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.502;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-1" target="NFRUFh8iR4Qbn44cYVuO-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
