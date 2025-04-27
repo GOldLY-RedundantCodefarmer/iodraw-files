@@ -73,8 +73,11 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-30" value="下&lt;div&gt;载&lt;/div&gt;&lt;div&gt;时&lt;/div&gt;&lt;div&gt;限&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="300" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NFRUFh8iR4Qbn44cYVuO-31" value="安&lt;div&gt;全&lt;/div&gt;&lt;div&gt;校&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="240" width="30" height="130" as="geometry" />
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-31" value="压缩提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-32" value="安&lt;div&gt;全&lt;/div&gt;&lt;div&gt;校&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
