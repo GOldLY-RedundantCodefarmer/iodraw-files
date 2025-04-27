@@ -135,7 +135,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-57" value="管理教师" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="175" y="280" width="60" height="40" as="geometry" />
+          <mxGeometry x="200" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-58" value="系统配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="280" width="60" height="40" as="geometry" />
@@ -145,6 +145,9 @@
         </mxCell>
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-61" value="管理个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="280" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mL-49ZFZynbZQ9aOc_sr-63" value="下载学生回传答卷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="240" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
