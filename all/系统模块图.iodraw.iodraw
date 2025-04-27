@@ -139,8 +139,11 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-29" value="在&lt;div&gt;线&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;发&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="320" width="30" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NFRUFh8iR4Qbn44cYVuO-30" target="NFRUFh8iR4Qbn44cYVuO-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-30" value="下&lt;div&gt;载&lt;/div&gt;&lt;div&gt;时&lt;/div&gt;&lt;div&gt;限&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="320" width="30" height="130" as="geometry" />
+          <mxGeometry x="368" y="320" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-31" value="压&lt;div&gt;缩&lt;/div&gt;&lt;div&gt;提&lt;/div&gt;&lt;div&gt;交&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="494" y="310" width="30" height="130" as="geometry" />
