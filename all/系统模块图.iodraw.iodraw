@@ -61,6 +61,9 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-26" value="文&lt;div&gt;件&lt;/div&gt;&lt;div&gt;格&lt;/div&gt;&lt;div&gt;式&lt;/div&gt;&lt;div&gt;支&lt;/div&gt;&lt;div&gt;持&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="241" y="320" width="30" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-27" value="安&lt;div&gt;全&lt;/div&gt;&lt;div&gt;校&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="150" width="30" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
