@@ -31,7 +31,7 @@
           <mxGeometry x="320" y="70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-6" value="学生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="150" width="50" height="20" as="geometry" />
+          <mxGeometry x="220" y="157" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mL-49ZFZynbZQ9aOc_sr-7" value="教师" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="155" width="50" height="20" as="geometry" />
