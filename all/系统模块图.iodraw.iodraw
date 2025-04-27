@@ -49,8 +49,8 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-19" value="试&lt;div&gt;卷&lt;/div&gt;&lt;div&gt;文&lt;/div&gt;&lt;div&gt;件&lt;/div&gt;&lt;div&gt;打&lt;/div&gt;&lt;div&gt;包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="150" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NFRUFh8iR4Qbn44cYVuO-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="180" width="30" height="130" as="geometry" />
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-20" value="权&lt;div&gt;限&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
