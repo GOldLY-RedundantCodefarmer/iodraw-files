@@ -77,10 +77,13 @@
           <mxGeometry x="411" y="300" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-32" value="回&lt;div&gt;传&lt;/div&gt;&lt;div&gt;状&lt;/div&gt;&lt;div&gt;态&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="300" width="30" height="130" as="geometry" />
+          <mxGeometry x="441" y="300" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-33" value="安&lt;div&gt;全&lt;/div&gt;&lt;div&gt;校&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="260" width="30" height="130" as="geometry" />
+          <mxGeometry x="550" y="150" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-34" value="安&lt;div&gt;全&lt;/div&gt;&lt;div&gt;校&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="140" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
