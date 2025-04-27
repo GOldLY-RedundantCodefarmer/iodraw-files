@@ -22,8 +22,8 @@
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-6" value="学生信息管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="110" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NFRUFh8iR4Qbn44cYVuO-8" value="权限管理(教师/学生/超级管理员)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="150" width="30" height="160" as="geometry" />
+        <mxCell id="NFRUFh8iR4Qbn44cYVuO-8" value="权限管理(&lt;div&gt;教师/学生/超级管理员)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="30" height="160" as="geometry" />
         </mxCell>
         <mxCell id="NFRUFh8iR4Qbn44cYVuO-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="310" width="120" height="20" as="geometry" />
