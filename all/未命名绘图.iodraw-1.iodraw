@@ -36,10 +36,7 @@
         <mxCell id="taOyXS-W7mRkFGgyIbxv-32" value="操作类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="taOyXS-W7mRkFGgyIbxv-33" value="考试名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="110" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="taOyXS-W7mRkFGgyIbxv-34" value="考试名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="taOyXS-W7mRkFGgyIbxv-34" value="操作用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="180" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
