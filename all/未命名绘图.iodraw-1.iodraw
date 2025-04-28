@@ -7,22 +7,8 @@
         <mxCell id="taOyXS-W7mRkFGgyIbxv-2" value="管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="130" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="taOyXS-W7mRkFGgyIbxv-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="240" as="sourcePoint" />
-            <mxPoint x="282.5" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="taOyXS-W7mRkFGgyIbxv-7" value="管理员ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="230" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="taOyXS-W7mRkFGgyIbxv-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="taOyXS-W7mRkFGgyIbxv-11" target="taOyXS-W7mRkFGgyIbxv-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="245" y="240" />
-              <mxPoint x="315" y="240" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="taOyXS-W7mRkFGgyIbxv-11" value="注册时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="270" width="70" height="40" as="geometry" />
@@ -33,7 +19,7 @@
         <mxCell id="taOyXS-W7mRkFGgyIbxv-13" value="管理员用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="270" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="taOyXS-W7mRkFGgyIbxv-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="taOyXS-W7mRkFGgyIbxv-14" target="taOyXS-W7mRkFGgyIbxv-2">
+        <mxCell id="taOyXS-W7mRkFGgyIbxv-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taOyXS-W7mRkFGgyIbxv-14" target="taOyXS-W7mRkFGgyIbxv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="taOyXS-W7mRkFGgyIbxv-14" value="用户最后登录时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
