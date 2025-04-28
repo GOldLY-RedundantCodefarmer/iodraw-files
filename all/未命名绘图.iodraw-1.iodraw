@@ -13,7 +13,7 @@
         <mxCell id="taOyXS-W7mRkFGgyIbxv-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="taOyXS-W7mRkFGgyIbxv-7" target="taOyXS-W7mRkFGgyIbxv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="taOyXS-W7mRkFGgyIbxv-7" value="添加时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="taOyXS-W7mRkFGgyIbxv-7" value="提交时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="230" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="taOyXS-W7mRkFGgyIbxv-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="taOyXS-W7mRkFGgyIbxv-11">
@@ -39,7 +39,7 @@
         <mxCell id="taOyXS-W7mRkFGgyIbxv-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="taOyXS-W7mRkFGgyIbxv-14" target="taOyXS-W7mRkFGgyIbxv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="taOyXS-W7mRkFGgyIbxv-14" value="考试唯一标识" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="taOyXS-W7mRkFGgyIbxv-14" value="答卷唯一标识" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="taOyXS-W7mRkFGgyIbxv-25" value="教师姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
