@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aajOMnpp2L7eR9JzyTuS-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="210" y="20" width="80" height="50" as="geometry" />
+          <mxGeometry x="210" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aajOMnpp2L7eR9JzyTuS-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="195" y="80" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
