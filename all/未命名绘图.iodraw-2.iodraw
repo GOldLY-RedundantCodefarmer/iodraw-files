@@ -10,6 +10,9 @@
         <mxCell id="aajOMnpp2L7eR9JzyTuS-3" value="是否已注册？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="80" width="85" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aajOMnpp2L7eR9JzyTuS-4" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
